@@ -1,4 +1,4 @@
-
+#updated
 name = str(input("what is your name: "))
 age = int(input("how old are you?: "))
 favlanguage = str(input("what is your favourite programming language?: "))
